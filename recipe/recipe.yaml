@@ -207,7 +207,7 @@ about:
   repository: https://github.com/isl-org/Open3D
 
 extra:
-  feedstock_name: open3d
+  feedstock-name: open3d
   recipe-maintainers:
     - Tobias-Fischer
     - traversaro
